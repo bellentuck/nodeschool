@@ -1,0 +1,13 @@
+{
+  "name": "@bellentuck/how-to-npm",
+  "version": "1.0.1",
+  "description": "Nodeschool core workshopper how-to-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "repository": "https://github.com/bellentuck/nodeschool/tree/master/core/how-to-npm"
+}
